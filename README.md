@@ -1,5 +1,5 @@
 # EWT
-Contact center estimation wait time calculation model written on R with Shiny framework.
+Contact center estimation wait time calculation model implemented on R with Shiny.
 
 Running from command line:
 ```
