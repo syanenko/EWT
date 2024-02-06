@@ -1,5 +1,7 @@
 ## <em>EWT<em>
-Contact center estimation wait time calculation model implemented on R with Shiny.
+Call center estimated wait time calculation model implemented with R / Shiny.
+
+![image](https://github.com/syanenko/EWT/assets/6688301/64c701cb-ec82-459d-9587-582f38aff48f)
 
 Running from command line:
 ```
